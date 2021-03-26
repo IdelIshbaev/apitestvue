@@ -1,24 +1,6 @@
-# firstvue
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# It is a project that was made in order to understand better Vue.js
+## Here U can find:
+- working with api
+- working with components
+- working with hooks
+- other useful staff
